@@ -5,24 +5,52 @@
 
 ---
 
-## 📊 Data Analytics
+## 🏆 Awards
+
+| Year | Award |
+|------|-------|
+| 2022 | 동국대학교 이과대학 경진대회 장려상 |
+| 2024 | 전주시 데이터 분석 공모전 입선 |
+| 2024 | 빅데이터 분석 콘테스트 부동산 플랫폼 분야 **최우수상** |
+| 2025 | 한국경영컨설팅학회 대학생경진대회 장려상 |
+| 2025 | 한국산업경영시스템학회 대학생 프로젝트 장려상 |
+
+---
+
+## 📌 Activities
+
+- 2023 동국대학교 빅데이터 학회 BAF 14기
+- 2024 데이터 분석 연합 동아리 DF 2기
+- 2024 성남고등학교 데이터 분석 봉사
+- 2024 탐색적 자료분석 강의 튜터링 진행
+- 2025.09 Exchange Student — Ca' Foscari University, Computer Science
+
+---
+
+## 🎓 Certifications
+
+- SQLD (SQL Developer)
+
+---
+
+## 📊 Data Analytics Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Olist E-Commerce CRM](https://github.com/Y0onSe0/olist-ecommerce-analysis) | RFM 세그멘테이션 · CLV 모델링 · 재구매 예측 · 캠페인 ROI 시뮬레이션 | Python, sklearn, folium |
 | [CTR/CVR Modeling with Survival Analysis](https://github.com/Y0onSe0/CTR-CVR-modeling-with-survival-analysis) | 광고 전환율 모델링 + Delayed Feedback 생존분석 (Ca' Foscari Univ.) | R, survival, Cox PH |
-| [BigContest 2024 — Real Estate](https://github.com/Y0onSe0/2024-Bigcontest-RealEstate) | 부동산 데이터 분석 (빅콘테스트 2024) | Python |
+| [BigContest 2024 — Real Estate](https://github.com/Y0onSe0/2024-Bigcontest-RealEstate) | 부동산 데이터 분석 · 빅콘테스트 2024 최우수상 | Python |
 | [Mirae Asset Festa 2024](https://github.com/Y0onSe0/2024-MireassetFesta) | 주식 뉴스 감성분석 + 투자 유형 클러스터링 | Python, NLP |
 | [FitColor — Fashion Color Analysis](https://github.com/Y0onSe0/BAF-24-2-marketing_1) | YOLOv5 기반 패션 색상 분석 · KMeans Palette · 색상 추천 | Python, sklearn |
 
 ---
 
-## 🤖 AI / Web Development
+## 🤖 AI / Web Development Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [AI Call Center — AICC](https://github.com/Y0onSe0/2026-1-DSCD-Togyether-02) | 질병관리청 콜센터 AI 보조 시스템 · Hybrid RAG · 실시간 STT · 자동 상담일지 (졸업프로젝트) | FastAPI, React, RAG, Deepgram |
-| [FitColor Web App](https://github.com/Y0onSe0/BAF-24-2-marketing_1/tree/main/FitColor) | 상의 사진 → 하의 색상 추천 → 무신사 쇼핑 연결 Streamlit 웹앱 | Streamlit, YOLOv5, Python |
+| [FitColor Web App](https://github.com/Y0onSe0/BAF-24-2-marketing_1/tree/main/FitColor) | 상의 사진 → 하의 색상 추천 → 무신사 쇼핑 연결 Streamlit 웹앱 | Streamlit, YOLOv5 |
 | [NLP Study — GPT-2 from Scratch](https://github.com/Y0onSe0/NLP_Study) | GPT-2 구현 · 감성분류 · Paraphrase Detection · Sonnet Generation | Python, PyTorch |
 
 ---

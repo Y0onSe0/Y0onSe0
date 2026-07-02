@@ -26,14 +26,21 @@
 
 ---
 
+<h2>💼 Experience</h2>
+
+<p>2024.01 ~ 2024.10 동국대학교 자율기술센터 — 딥러닝 영상탐지 구현 업무보조 연구원</p>
+<p>2025.09 Exchange Student — Ca' Foscari University, Computer Science</p>
+
+<br>
+
+---
+
 <h2>🏃 Activities</h2>
 
 <p>2023 동국대학교 빅데이터 학회 BAF 14기</p>
 <p>2024 데이터 분석 연합 동아리 DF 2기</p>
 <p>2024 성남고등학교 데이터 분석 봉사</p>
 <p>2024 탐색적 자료분석 강의 튜터링 진행</p>
-<p>2024.01 ~ 2024.10 동국대학교 자율기술센터 — 딥러닝 영상탐지 구현 업무보조 연구원</p>
-<p>2025.09 Exchange Student — Ca' Foscari University, Computer Science</p>
 
 <br>
 

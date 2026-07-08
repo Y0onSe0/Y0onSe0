@@ -54,37 +54,46 @@
 
 ---
 
-<h2>📊 Data Analytics Projects</h2>
-
-<h3>· <a href="https://github.com/Y0onSe0/olist-ecommerce-analysis">Olist E-Commerce CRM</a></h3>
-<p>RFM 세그멘테이션 · CLV 모델링 · 재구매 예측 · 캠페인 ROI 시뮬레이션</p>
-
-<h3>· <a href="https://github.com/Y0onSe0/CTR-CVR-modeling-with-survival-analysis">CTR/CVR Modeling with Survival Analysis</a></h3>
-<p>광고 전환율 모델링 + Delayed Feedback 생존분석 · Ca' Foscari University Statistical Inference and Learning Project</p>
+<h2>📊 Data Science / Statistical Modeling</h2>
 
 <h3>· <a href="https://github.com/Y0onSe0/2024-Bigcontest-RealEstate">BigContest 2024 — Real Estate</a></h3>
-<p>부동산 데이터 분석 · 빅콘테스트 2024 최우수상</p>
+<p>업무용 부동산(오피스) 가격산정모형(AVM) 개발 · 빅콘테스트 2024 부동산 플랫폼 분야 <b>최우수상</b></p>
 
-<h3>· <a href="https://github.com/Y0onSe0/2024-MireassetFesta">Mirae Asset Festa 2024</a></h3>
-<p>주식 뉴스 감성분석 + 투자 유형 클러스터링</p>
-
-<h3>· <a href="https://github.com/Y0onSe0/BAF-24-2-marketing_1">FitColor — Fashion Color Analysis</a></h3>
-<p>YOLOv5 기반 패션 색상 분석 · KMeans Palette · 색상 추천 웹앱</p>
+<h3>· <a href="https://github.com/Y0onSe0/2024-MireassetFesta">Mirae Asset Festa 2024 — Factor-based Stock Clustering</a></h3>
+<p>팩터 기반 종목 클러스터링 · 투자 성향 테스트 · HyperCLOVA 기반 뉴스 요약 및 해설 서비스</p>
 
 <br>
 
 ---
 
-<h2>🤖 AI / Web Development Projects</h2>
+<h2>🛍️ Customer & Business Analytics</h2>
 
-<h3>· <a href="https://github.com/Y0onSe0/2026-1-DSCD-Togyether-02">AI Call Center — AICC</a> (졸업프로젝트)</h3>
+<h3>· <a href="https://github.com/Y0onSe0/olist-ecommerce-analysis">Olist E-Commerce CRM</a></h3>
+<p>RFM 세그멘테이션 · 코호트/Pareto 분석 · 재구매 예측 · 풀필먼트 입지 최적화(MCLP)</p>
+
+<h3>· <a href="https://github.com/Y0onSe0/CTR-CVR-modeling-with-survival-analysis">CTR/CVR Funnel & Delayed Conversion Analysis</a></h3>
+<p>광고 전환율 모델링 + Delayed Feedback 생존분석 · Ca' Foscari University Statistical Inference and Learning Project</p>
+
+<br>
+
+---
+
+<h2>🤖 AI Engineering</h2>
+
+<h3>· <a href="https://github.com/Y0onSe0/2026-1-DSCD-Togyether-02">Disease Control Call Center AI Agent</a> (졸업프로젝트)</h3>
 <p>질병관리청 콜센터 AI 보조 시스템 · Hybrid RAG · 실시간 STT · 자동 상담일지 생성</p>
 
-<h3>· <a href="https://github.com/Y0onSe0/BAF-24-2-marketing_1/tree/main/FitColor">FitColor Web App</a></h3>
-<p>상의 사진 → 하의 색상 추천 → 무신사 쇼핑 연결 Streamlit 웹앱</p>
+<h3>· <a href="https://github.com/Y0onSe0/LifeOps-multi-agent">LifeOps Multi-Agent System</a></h3>
+<p>LangGraph 기반 개인 생활운영 멀티에이전트 · Claude API · Notion/Google Calendar 연동</p>
 
-<h3>· <a href="https://github.com/Y0onSe0/NLP_Study">NLP Study — GPT-2 from Scratch</a></h3>
-<p>GPT-2 구현 · 감성분류 · Paraphrase Detection · Sonnet Generation</p>
+<br>
+
+---
+
+<h2>🎨 Additional Projects</h2>
+
+<h3>· <a href="https://github.com/Y0onSe0/BAF-24-2-marketing_1">FitColor — Fashion Color Analysis</a></h3>
+<p>YOLOv5 기반 패션 색상 분석 · KMeans Palette · 색상 추천 Streamlit 웹앱</p>
 
 <br>
 
